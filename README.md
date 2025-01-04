@@ -1,6 +1,6 @@
 # My SwiftUI Learning Project
 
-## 01 - foodPicker
+## 01 - FoodPicker
 
 * 使用不同動畫
 
