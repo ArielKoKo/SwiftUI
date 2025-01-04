@@ -6,5 +6,4 @@
 * 使用不同動畫
 
 ![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20&%20GIF/foodPickerAnimation_1.gif)
-
 ![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20%26%20GIF/foodPickerAnimation_2.gif)
