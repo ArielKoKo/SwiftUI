@@ -7,3 +7,6 @@
 
 ![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20&%20GIF/foodPickerAnimation_1.gif)
 ![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20%26%20GIF/foodPickerAnimation_2.gif)
+
+* 運用Stack & Grid 排版
+  
