@@ -9,4 +9,7 @@
 ![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20%26%20GIF/foodPickerAnimation_2.gif)
 
 * 運用Stack & Grid 排版
-  
+
+![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20%26%20GIF/StackView.png)
+![image](https://github.com/ArielKoKo/SwiftUI/blob/main/PHOTO%20%26%20GIF/Grid.png)
+
